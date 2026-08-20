@@ -103,5 +103,4 @@ deviations are expected across environments; the campaign's own noise band was
 
 ## License
 
-<!-- FILL IN. Check Ericsson and University of Toronto clearance before
-     publishing prepare.py and program.md in particular. -->
+GNU GPLv3 (General Public License)
